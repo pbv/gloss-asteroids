@@ -1,5 +1,5 @@
 
-# Gloass Asteroids
+# Gloss Asteroids
 
 A simple Asteroids-like game using the Gloss library.
 
@@ -9,16 +9,16 @@ Pedro Vasconcelos, 2014-2017
 
 Cursor Left & Right
 
-:     rotate ship
+:       rotate ship
 
 Cursor Up & Down
 
-:     increase / decrease thrust
+:       increase / decrease thrust
 
 
 Space
 
-:     Fire laser
+:       Fire laser
 
 
 ## TODO 
