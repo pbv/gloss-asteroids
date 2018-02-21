@@ -1,10 +1,9 @@
 
-name:           tapf-asteroids
+name:           gloss-asteroids
 version:        0.1.0.0
 synopsis:       Simple Asteroids-like game using Gloss
-description:    Simple Asteroids-like game using Gloss
-homepage:       https://github.com/pbv/tapf-pong
-bug-reports:    https://github.com/pbv/tapf-pong/issues
+homepage:       https://github.com/pbv/gloss-asteroids
+bug-reports:    https://github.com/pbv/gloss-asteroids/issues
 author:         Pedro Vasconcelos
 maintainer:     pbv@dcc.fc.up.pt
 copyright:      2017 Pedro Vasconcelos
@@ -13,7 +12,7 @@ license-file:   LICENSE
 build-type:     Simple
 cabal-version:  >= 1.10
 
-executable tapf-asteroids
+executable gloss-asteroids
   main-is: Main.hs
   hs-source-dirs:
     src
